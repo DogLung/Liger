@@ -10,4 +10,6 @@ This is a Test
 
 [link text](http://doglung.com)
 
+**THIS IS WHAT I CHANGED TO TEST GIT**
+
 
